@@ -1,0 +1,45 @@
+html {
+  box-sizing: border-box;
+}
+body {
+  background-color: lavender;
+}
+.text {
+  color: rgba(26, 175, 235, 0.966);
+  font-size: 50px;
+}
+.timer {
+  display: flex;
+  justify-content: center;
+}
+
+.field {
+  padding: 30px;
+  margin-left: 30px;
+  background-color: #bccdf3;
+  border-radius: 25%;
+}
+
+.value {
+  font-size: 50px;
+  margin-right: 10px;
+  color: #515093;
+}
+
+.label {
+  font-size: 50px;
+  color: #446b87;
+}
+
+.description-of-events {
+  font-size: 80px;
+  display: flex;
+  color: #446b87;
+  justify-content: center;
+}
+
+.timer {
+  margin-top: 20px;
+  font-size: 60px;
+  color: #446b87;
+}
